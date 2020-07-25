@@ -38,4 +38,4 @@ _Figure 1. Docsify Open Publishing Starter Kit for Repl.it. Explore a demo at [d
 🙇‍Credits and Special Thanks
 ---
 [Docsify Themeable](https://github.com/jhildenbiddle/docsify-themeable)  
-[Repl.it](https://https://repl.it/)  
+[Repl.it](https://repl.it/)  
