@@ -2,7 +2,7 @@
 
 **Markdown** is a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it.
 
-![The Markdown Mark](../assets/images/markdown.png)  
+![The Markdown Mark](https://docsify-open-publishing-starter-kit-for-replit--hibbittsdesign.repl.co/assets/images/markdown.png)  
 _Figure 1: The Markdown Mark_
 
 Some of the key benefits are:
